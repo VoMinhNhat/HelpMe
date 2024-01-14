@@ -1,0 +1,60 @@
+.TestingPage1{
+    background-color: wheat;
+
+    width: 800px;
+    height: 1000px;
+
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 200px;    
+}
+.TestingPage2{
+    background-color: rgb(179, 245, 240);
+
+    width: 800px;
+    height: 1000px;
+
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 200px;
+}
+.TestingPage3{
+    background-color: rgb(245, 179, 179);
+
+    width: 800px;
+    height: 1000px;
+
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 200px;
+}
+
+
+
+.Menu{
+    background-color: tomato;
+    width: 300px;
+    height: 900px;
+
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 200px;
+}
+
+
+
+
+.login{
+    background-color: springgreen;
+
+    width: 100%;
+    height: 900px;
+}
+
+
+
+.MainPage{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
